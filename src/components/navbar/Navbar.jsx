@@ -8,10 +8,10 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#service">Work</a>
+      <a href="#about">About</a>
     </p>
     <p>
-      <a href="#about">About</a>
+      <a href="#service">Work</a>
     </p>
     <p>
       <a href="#testimonial">Testimonial</a>
